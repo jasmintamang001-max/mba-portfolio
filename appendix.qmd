@@ -1,0 +1,105 @@
+---
+title: "Appendix: LLM Draft and Reflection"
+format: pdf
+---
+
+# LLM-Generated Draft
+
+Create an outline and sample text for a one-page MBA student portfolio webpage including bio, education, experience, and skills.
+
+**About Me (Sample)**  
+I am an MBA student with an interest in business analytics and strategic decision-making. I enjoy applying data-driven insights to solve business problems.
+
+**Education (Sample)**  
+Master of Business Administration  
+University Name  University Canada West
+Expected Graduation: 2026
+
+**Experience (Sample)**  
+Analyzed data and supported business reporting initiatives.
+
+**Skills (Sample)**  
+SQL, Data Analysis, Business Reporting, Communication
+
+---
+
+# Reflection on LLM Use
+
+I used ChatGPT to generate an initial outline and sample content for my MBA portfolio webpage. The LLM helped me structure the page into clear sections such as About Me, Education, Professional Experience, and Skills.
+
+I revised the content extensively to ensure accuracy and authenticity. Generic statements were removed and replaced with details from my real academic background and work experience. The final portfolio reflects my own voice, skills, and career goals. The LLM was used only as a brainstorming and drafting aid.
+The process of editing the LLM-generated content allowed me to critically evaluate what information was most relevant and how to best present myself to potential employers. Overall, the LLM provided a helpful starting point, but the final product is entirely my own work.
+
+# Personalization Comparison: LLM Draft vs. Final Version
+
+---
+
+## About Me Section
+
+### LLM Draft Version
+ I am a motivated MBA student with a strong interest in business strategy, financial analysis, and organizational growth. I am passionate about applying analytical skills and leadership abilities to solve real-world business problems.
+
+### Final Revised Version
+ As an MBA student at University Canada West, I am developing a strong foundation in financial analysis and business analytics. Over the past eight months working in retail banking, I gained practical experience in financial operations and developed a strong interest in using data to support informed decision-making in the banking industry. I am currently pursuing an Analyst career path where I can apply SQL and financial analysis skills to generate data-driven insights.
+
+### Changes Made
+- Replaced generic phrases (“motivated,” “passionate”) with specific professional experience.
+- Added university name for academic clarity.
+- Included retail banking experience.
+- Incorporated SQL and Analyst career goal.
+- Strengthened overall professional tone.
+
+---
+
+##  Professional Experience Section
+
+### LLM Draft Version
+Assisted customers with financial transactions and account services.
+
+### Final Revised Version
+ Reviewed and processed daily financial transactions while ensuring compliance with internal banking procedures. This role strengthened my attention to detail, financial accuracy, and understanding of operational controls within a regulated environment.
+
+### Changes Made
+- Shifted from customer-service language to analytical and operational language.
+- Emphasized compliance and internal controls.
+- Highlighted attention to detail, which is critical for Analyst roles.
+- Demonstrated understanding of regulatory banking environments.
+
+---
+
+##  Skills Section
+
+### LLM Draft Version
+- Communication  
+- Teamwork  
+- Financial Knowledge  
+- Basic SQL  
+
+### Final Revised Version
+- SQL (filtering, aggregation, data querying)  
+- Reconciliation of financial transactions  
+- Interpretation and reporting of financial data  
+- Microsoft Excel (pivot tables, formulas)  
+- Regulatory and compliance awareness  
+
+### Changes Made
+- Removed overly generic soft skills.
+- Expanded SQL description to demonstrate technical capability.
+- Added financial and analytical competencies.
+- Aligned skills with banking Analyst career objectives.
+
+---
+
+##  Career Objective
+
+### LLM Draft Version
+To obtain a challenging role in the banking industry where I can apply my MBA knowledge and skills.
+
+### Final Revised Version
+ To obtain an entry-level Analyst position within a leading Canadian financial institution where I can apply SQL, financial analysis, and data-driven insights to support operational efficiency and strategic decision-making.
+
+### Changes Made
+- Made career goal specific (Analyst position).
+- Incorporated technical competencies.
+- Used industry-specific language.
+- Made the objective more precise and professionally aligned.

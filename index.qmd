@@ -1,0 +1,61 @@
+---
+title: "Jasmin Tamang"
+format:
+  html:
+    theme: flatly
+    toc: false
+----
+
+![](headshot.jpg){width=200px}
+
+
+
+
+# About Me
+
+As an MBA student at University Canada West, I am developing a powerful base of financial analysis and business analytics. I have spent eight months working in retail banking and have been able to have practical experience in the field of banking and have become interested in utilizing data to make informed decisions in the banking industry. I am currently undertaking an Analyst career path in which I will be able to use SQL and financial analysis to make data-driven results.
+
+
+# Education
+
+**Master of Business Administration (MBA)**  
+University Canada West  
+Expected Graduation: 2026  
+
+Relevant Coursework:
+- Financial Management
+- Business Analytics
+- Managerial Accounting
+- Strategic Management
+
+# Professional Experience
+
+## Banking Associate
+8 Months  
+
+- Checked and reconciled reviewed and processed daily financial transactions and maintained adherence to internal banking procedures. This taught me to be more observant and financial and to know how operations are controlled.
+
+
+## Front of House Team Member
+Chipotle  
+Reconciling daily POS transactions and cash.
+Worked under a high volume and needed to be precise and efficient.
+
+
+# Key Skills
+
+•	SQL (filtering, aggregation, data querying)
+•	Reconciliation of financial transactions.
+•	Interpretation and reporting of data.
+•	Microsoft Excel (pivot tables, formulae).
+•	Regulatory and compliance awareness
+
+# Career Objective
+
+To secure an intern level Analyst role in one of the most successful Canadian financial institutions where I will be able to use SQL, financial analysis knowledge, and practical insights to facilitate the efficiency of operations and strategic decision-making.
+
+
+# Contact
+
+Email: jasmin.tamang001@gmail.com 
+LinkedIn: www.linkedin.com/in/jasmin-tamang-103b58243
