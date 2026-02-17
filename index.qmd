@@ -1,10 +1,9 @@
 ---
-title: "Jasmin Tamang"
-format:
-  html:
-    theme: flatly
-    toc: false
-----
+title: "My MBA Portfolio"
+author: "Jasmin Tamang"
+format: html
+---
+    
 
 ![](headshot.jpg){width=200px}
 

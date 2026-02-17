@@ -2,5 +2,8 @@
   "appendix.qmd": {
     "appendix.tex": "401ddcc0",
     "appendix.html": "48fb73f3"
+  },
+  "index.qmd": {
+    "index.html": "321ef858"
   }
 }

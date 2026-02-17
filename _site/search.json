@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My MBA Portfolio",
+    "section": "",
+    "text": "theme: flatly\ntoc: false"
+  },
+  {
+    "objectID": "index.html#banking-associate",
+    "href": "index.html#banking-associate",
+    "title": "My MBA Portfolio",
+    "section": "Banking Associate",
+    "text": "Banking Associate\n8 Months\n\nChecked and reconciled reviewed and processed daily financial transactions and maintained adherence to internal banking procedures. This taught me to be more observant and financial and to know how operations are controlled."
+  },
+  {
+    "objectID": "index.html#front-of-house-team-member",
+    "href": "index.html#front-of-house-team-member",
+    "title": "My MBA Portfolio",
+    "section": "Front of House Team Member",
+    "text": "Front of House Team Member\nChipotle\nReconciling daily POS transactions and cash. Worked under a high volume and needed to be precise and efficient."
+  }
+]
